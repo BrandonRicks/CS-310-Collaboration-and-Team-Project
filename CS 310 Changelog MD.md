@@ -10,13 +10,13 @@ Major Changes:
 
 -   Added BrandonRicks to playlists
 
-    ![](media/066b5cf6fafc7c167c7c48997d789d77.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191563464-c14cfb17-4e91-406f-a1fd-2098c6e78401.png)
 
 -   Added case statement for profile in StudentList
 -   Updated unit test to StudentTest to include profile tests
 -   Created pull request for merge
 
-    ![](media/cdd54ffdf43a44777ffa3140fbec994a.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191563845-36be0c6c-aa19-4181-94da-41198afcf535.png)
 
 Minor Changes:
 
@@ -36,17 +36,17 @@ Major Changes:
 -   Created a feature branch for Jukebox Playlist app
 -   Added InFlames and Opeth to artists
 
-    ![](media/1a1d1aa94e642c2e07b4fd9fac08da1d.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191563876-1f78bd64-427c-4b5d-b4e9-f614474b846f.png)
 
-    ![](media/edefb6d4c65747db7a88f55890efc29b.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191563910-af91e5c7-9c38-4438-b965-badfa78bb0cd.png)
 
 Minor Changes:
 
 -   Modified tests for StudentTest and JukeboxTest
 
-    ![](media/12c90274f2bae7d18feba19d0fb9a8b9.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191563997-db7a1fe1-e430-485a-8ad5-67d46f0fcf6d.png)
 
-    ![](media/3f50b4b269b4fa73b4741267976f6aef.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564014-4442b1e7-ce66-4e98-8233-75d7845e00ad.png)
 
 -   Added comments to new code
 -   Committed and Pushed changes of new branch titled “Bricks_FeatureBranch” to remote repository on BitBucket
@@ -63,17 +63,17 @@ Major Changes:
 
 -   Added “@since 1.0” to BinaryOperation.java and stashed this change.
 
-    ![](media/1996e2ccffc0fc3d71e748f35d21537d.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564048-2cf4eb25-aa8b-416e-a165-46648cad733d.png)
 
 -   Applied the stashed changes to the javadoc branch.
 
-    ![](media/dff4f0707f53e2e998606ec34c81937c.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564074-4bdf8f91-b254-464e-a218-8c892fb5615d.png)
 
 Minor Changes:
 
 -   Compared the working tree with the stashed changes.
 
-    ![](media/9ddc804e3b30015e3d9bafd9949e2244.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564090-003f42ed-590b-49a8-addc-71a6c6774cd0.png)
 
 Bug Fixes:
 
@@ -87,11 +87,11 @@ Major Changes:
 
 -   Opened Calculator.java and used the “show revision information” option to show commit information and author.
 
-    ![](media/785ec2866b69fc93d8b352f65fc1cb33.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564114-6baef1c9-234d-4854-a3ca-c51ff182bf61.png)
 
 -   This information is also shown within the History tab.
 
-    ![](media/ba83e6b10ad52dbf686f6aff9b012068.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564141-d30deaf4-7de4-4676-a3ca-8a5ba5e35781.png)
 
 Minor Changes:
 
@@ -109,11 +109,11 @@ Major Changes:
 
 -   Created a separate branch for the tutorial with an empty class file, and added a different empty class file to the master branch to create differences in the branches.
 
-    ![](media/05923a5241b1d4a5b5ec130e5d4d0514.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564156-6be53d49-867a-4b04-a197-a0e8e0aea201.png)
 
 -   Cherry-picked the other commit to add the difference between them to the new commit.
 
-    ![](media/c502523a05a29d04d3f9934388c1e815.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564176-19f265dc-4c12-4687-b50b-50ffa9a89c5b.png)
 
 Minor Changes:
 
@@ -131,21 +131,21 @@ Major Changes:
 
 -   Applied reset mixed to addDivide, resetting the branch pointer.
 
-    ![](media/8c5104f88b67e782600d9dfed868749c.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564203-b974c5b4-fedf-42d7-81b9-2fe3554b23e6.png)
 
 -   Amended commit and reset branch.
 
-    ![](media/6f8d5f6d7278647ceb583e815b5792de.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564224-d6c3082f-9381-48c1-8499-a947bff8ca4e.png)
 
 Minor Changes:
 
 -   Branch reset create a new master separate from prior mergers.
 
-    ![](media/b6f8550d3e60dce32f055038655ab7f4.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564247-a4801db2-b8c4-4eec-b899-ef8a3350c45a.png)
 
 -   Reset back before amend to prior tree.
 
-    ![](media/23a437495cd3f15bc6929a9893127058.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564265-1eec511a-16ad-4555-afd9-ce76a35704bc.png)
 
 Bug Fixes:
 
@@ -159,17 +159,17 @@ Major Changes:
 
 -   Began merging all branches together. addDivide and addPower merged successfully
 
-    ![](media/5865f0c8e7b5b9f6e71764d10655efca.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564302-c69dfb4e-58ce-4475-a839-09da4c11d9e9.png)
 
 -   addMultiply conflicted. Used merge tool to merge and fix conflict, added newly resolved file to index.
 
-    ![](media/3857ecd7da8d301d5d17844e426c02bc.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564332-8bf5d9db-889e-484a-9c4a-476ccde71069.png)
 
 Minor Changes:
 
 -   Confirmed in History tab that all mergers were successful.
 
-    ![](media/5e52566a1901070774bebf59b84c8d2a.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564370-6b45e602-09c4-47a2-8a49-b159708db3b4.png)
 
 -   Tested all functions in calculator to ensure newest branch works as intended prior to push.
 
@@ -185,7 +185,7 @@ Major Changes:
 
 -   Attempted Fetch from origin; everything is up to date
 
-    ![](media/1b8e0887ea486ea510009de67a384455.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564400-c70a5733-e8ee-4dda-a354-9e7ce3f266fc.png)
 
 -   As everything is up to date, this is a good foundation to create new local feature branches
 
@@ -205,11 +205,11 @@ Major Changes:
 
 -   Created a new feature: addMultiply
 
-    ![](media/6caf63f2b506e48b55be321363b7bf1d.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564424-9c165fb3-cc24-40cb-b5d0-cc4a67485fa9.png)
 
 -   Changed committed comments using Amend
 
-    ![](media/310b300d1b6fcd44bb204769150841f8.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564450-4018d3f5-61f7-4487-8b5b-c20e2217baee.png)
 
 Minor Changes:
 
@@ -230,7 +230,7 @@ Major Changes:
 -   Inspected History View of repository
 -   Configured History View to show branching of Divide
 
-    ![](media/430e2ce55a4525cbce8b06b44198cd72.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564469-ad86577b-67a0-4956-a0ff-7de0c4773f14.png)
 
 Minor Changes:
 
@@ -250,7 +250,7 @@ Major Changes:
 -   Developed a new feature branch
 -   Created new feature Power (NOTE: Power not yet implemented into UI)
 
-![](media/7dd32143bcf9cb128e87aa172b7bec5c.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564490-5c1c1ada-c64a-4af8-9784-449af49ac592.png)
 
 Minor Changes:
 
@@ -270,7 +270,7 @@ Major Changes:
 -   Created a new feature branch
 -   Created feature Divide
 
-![](media/d2742b40d1c96b88f9abead342d15772.jpeg)
+    ![image](https://user-images.githubusercontent.com/79807877/191564525-a27a875d-c2e2-40e4-88bf-1ec8f2955c39.png)
 
 Minor Changes:
 
